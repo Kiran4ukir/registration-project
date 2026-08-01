@@ -7,7 +7,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                url: 'https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git'
+                url: 'https://github.com/Kiran4ukir/registration-project.git'
             }
         }
 
