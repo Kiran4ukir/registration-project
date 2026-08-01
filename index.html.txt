@@ -11,7 +11,7 @@
 
     <form id="regForm">
 
-        <label>Full Name</label>
+        <label>Full sunil Name</label>
         <input type="text" id="name" required>
 
         <label>Email</label>
